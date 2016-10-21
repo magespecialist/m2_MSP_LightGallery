@@ -1,5 +1,7 @@
 # Magento 2 LightGallery module
 
+[![PHP version](https://badge.fury.io/ph/msp%2Flightgallery.svg)](https://badge.fury.io/ph/msp%2Flightgallery)
+
 This module lets you use [LightGallery](https://github.com/sachinchoolur/lightGallery) with Magento 2 throught requirejs.
 
 ## Installation
